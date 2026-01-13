@@ -97,7 +97,6 @@ Produced a concise sales report that facilitates the understanding of performanc
 ---
 
 ## Contact
-
-- **LinkedIn:** https://www.linkedin.com/in/lilianacarvajal  
-- **GitHub:** https://github.com/lilianacarvajal42  
-- **Email:** lilianacarvajal42@gmail.com
+[![LinkedIn](https://img.shields.io/badge/linkedin-%23295F98.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lilianacarvajal)
+[![GitHub](https://img.shields.io/badge/github-295F98?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](https://github.com/lilianacarvajal42)
+[![Email](https://img.shields.io/badge/email-295F98?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:lilianacarvajal42@gmail.com)
