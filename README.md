@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="img/logo.jpeg" alt="Liliana Carvajal - Data Analyst" width="180" style="border-radius: 50%;">
-</p>
-
 # About Me
 
 Junior **Data Analyst** with hands-on experience gained through a data analytics bootcamp, working with **Python, SQL, Power BI, and Excel**. I specialize in **data cleaning, transformation, and analysis**, turning raw data into clear insights that support **data-driven decision-making**.
